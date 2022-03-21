@@ -100,7 +100,8 @@
 	},
 	"ДелатьОтчетВоВнутреннемФормате": false,
 	"КаталогиБиблиотек": [
-		"C:\\Users\\Leshchenko_IV\\Documents\\Testing\\vanessa-automation.1.2.038.1\\vanessa-automation\\features\\Libraries"
+		"C:\\Users\\Leshchenko_IV\\Documents\\Testing\\vanessa-automation.1.2.038.1\\vanessa-automation\\features\\Libraries",
+		"C:\\Users\\Leshchenko_IV\\Documents\\GitHub\\Features_IRP\\External"
 	],
 	"СписокТеговИсключение": [
 		"IgnoreOnCIMainBuild"
@@ -149,7 +150,7 @@
 	"ДелатьСкриншотПриВозникновенииОшибки": true,
 	"СниматьСкриншотКаждогоОкна1С": false,
 	"КаталогВыгрузкиСкриншотов": "C:\\Users\\Leshchenko_IV\\Documents\\Testing\\Скрины ошибок",
-	"КаталогПроекта": "C:\\Users\\Leshchenko_IV\\Documents\\GitHub",
+	"КаталогПроекта": "C:\\Users\\Leshchenko_IV\\Documents\\GitHub\\Features_IRP",
 	"СоздаватьФайлыОзвучкиДляСправки": false,
 	"ПодключатьГорячуюКлавишуДляПолученияСправкиОбЭлементе": true,
 	"СоздаватьИнструкциюВидео": false,
